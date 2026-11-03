@@ -1,4 +1,20 @@
 {
   "version": 1,
-  "apps": []
+  "apps": [
+    {
+      "package": "com.qoij.storetest",
+      "name": "StoreTest",
+      "summary": "Test app for LegacyStore",
+      "description": "Test app for LegacyStore",
+      "category": "Tools",
+      "icon": "icons/com.qoij.storetest.png",
+      "versionCode": 1,
+      "versionName": "1.0",
+      "apk": "apks/com.qoij.storetest_1.apk",
+      "sha256": "6c2fa8e4f35fe1156deaf426dc5db04224ac75330afebae2e210bfe5392e2146",
+      "size": 10158,
+      "minSdk": 24,
+      "changelog": ""
+    }
+  ]
 }
